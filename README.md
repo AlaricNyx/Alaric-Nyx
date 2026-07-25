@@ -1,4 +1,4 @@
-# Alaric-Nyx
+
 <h1 align="center">Hi 👋, I'm Alaric Nyx</h1>
 <h3 align="center">🛡️ Cyber Security Enthusiast | DFIR | SOC Analyst | Malware Analysis</h3>
 
